@@ -1,0 +1,62 @@
+[
+    {
+        "id": "101",
+        "name": "k.Saranya",
+        "email": "saranya12@gmail.com",
+        "course": "CSE"
+    },
+    {
+        "id": "102",
+        "name": "K.Akshya",
+        "email": "kakshya@gmail.com",
+        "course": "EEE"
+    },
+    {
+        "id": "103",
+        "name": "L.Sravani",
+        "email": "sravanil12@gmail.com",
+        "course": "ECE"
+    },
+    {
+        "id": "104",
+        "name": "K.Bhavya",
+        "email": "bhavyak17@gmail.com",
+        "course": "CSE"
+    },
+    {
+        "id": "105",
+        "name": "SK.Vahidha",
+        "email": "vahidhask@gmail.com",
+        "course": "CSE"
+    },
+    {
+        "id": "106",
+        "name": "A.Priya",
+        "email": "priya435@gmail.com",
+        "course": "ECE"
+    },
+    {
+        "id": "107",
+        "name": "A.Lasya",
+        "email": "lasya19@gmail.com",
+        "course": "CSE"
+    },
+    {
+        "id": "108",
+        "name": "T.Sanjana",
+        "email": "sanjana13@gmail.com",
+        "course": "CSE"
+    },
+    {
+        "id": "109",
+        "name": "L.Lucky",
+        "email": "lucky14@gmail.com",
+        "course": "ECE"
+    },
+    {
+        "id": "110",
+        "name": "B.Prasanna",
+        "email": "prasannabreddy@gmail.com",
+        "course": "IT"
+    }
+]
